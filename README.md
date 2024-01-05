@@ -2,3 +2,4 @@
  Go Fiber for VOCVERSE Website
 
  vue frontend
+ traefik proxy
