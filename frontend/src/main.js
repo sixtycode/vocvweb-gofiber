@@ -1,6 +1,5 @@
-import { createApp } from 'vue'
-import './style.css'
-import App from './App.vue'
-import './../node_modules/Bulma/CSS/bulma.css'
+import { createApp } from "vue";
+import "./../node_modules/Bulma/CSS/bulma.css";
+import App from "./App.vue";
 
-createApp(App).mount('#app')
+createApp(App).mount("#app");
